@@ -29,9 +29,3 @@ When you open a shopping cart application, all you see is just a website. But, b
 
 
 
-
-
-
-
-
-
