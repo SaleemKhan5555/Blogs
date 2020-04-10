@@ -25,6 +25,15 @@ This means that developers don’t create a web microservice, a logic microservi
 Instead, they create separate microservices for search, recommendations, customer services and so on.
 This type of architecture for the application not only helps the developers to overcome all the challenges faced with 
 the previous architecture but also helps the shopping cart application to be built, deployed, and scale up easily.
+Companies Using Microservices
+1)	Amazon
+2)	Netflix
+3)	GILT
+4)	UBER
+5)	Twitter
+6)	Theguardian
+7)	Paypal
+8)	Ebay
 
 
 
