@@ -17,7 +17,14 @@ Key Advantages of Micro Services
 7)	Better alignment of developers with business users. Since microservice architectures are organized around business capabilities, developers can more easily understand the user perspective and create microservices that are better aligned with the business. 
 8)	Future-proofed applications- When innovations happen and new or updated technology disrupt your software development process, microservice architectures makes it easier to respond by replacing or upgrading the individual services affected without impacting the whole application.
 Example: Shopping Cart Application
-When you open a shopping cart application, all you see is just a website. But, behind the scenes, the shopping cart application has a service for accepting payments, a service for customer services and so on.  Suppose that developers of this application have created it in a monolithic framework as given in figure below.
+When you open a shopping cart application, all you see is just a website. 
+But, behind the scenes, the shopping cart application has a service for accepting payments, 
+a service for customer services and so on.  
+Suppose that developers of this application have created it in a monolithic framework as given in figure below.
+This means that developers don’t create a web microservice, a logic microservice, or a database microservice. 
+Instead, they create separate microservices for search, recommendations, customer services and so on.
+This type of architecture for the application not only helps the developers to overcome all the challenges faced with 
+the previous architecture but also helps the shopping cart application to be built, deployed, and scale up easily.
 
 
 
